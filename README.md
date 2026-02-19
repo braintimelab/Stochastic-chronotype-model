@@ -117,10 +117,9 @@ If you use this code, please cite:
 
 ## License
 
-Code: MIT License
-Data: CC BY 4.0
+CC BY 4.0
 
 ## Contact
 
-Jihwan Myung — jihwan@tmu.edu.tw
+Jihwan Myung at jihwan@tmu.edu.tw
 Laboratory of Braintime, Taipei Medical University
